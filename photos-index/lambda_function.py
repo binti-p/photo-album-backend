@@ -1,3 +1,5 @@
+# version 1.0
+
 import boto3
 import json
 import logging
